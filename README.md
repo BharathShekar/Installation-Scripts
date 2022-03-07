@@ -1,5 +1,4 @@
-# Installation-Scripts
-Jenkins Indtallation ( Ubuntu )
+
 #!/usr/bin/env bash
 # This script install Jenkins in your Ubuntu System
 #
